@@ -1,0 +1,22 @@
+{
+    "Plantation": [
+      {
+        "fr": {
+          "question": "Quand planter le mil ?",
+          "reponse": "Le mil se plante en juin avec les premières pluies."
+        },
+        "br": {
+          "question": "Ɲɔ bɛ sɛnɛ tuma jumɛn ?",
+          "reponse": "Ɲɔ bɛ sɛnɛ zuwɛnkalo la, sanji fɔlɔw la."
+        }
+      }
+    ],
+    "Sol": [
+      {
+        "fr": {
+          "question": "Comment améliorer un sol pauvre ?",
+          "reponse": "Utilisez du compost ou du fumier."
+        }
+      }
+    ]
+  }

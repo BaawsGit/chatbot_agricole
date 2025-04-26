@@ -1,0 +1,35 @@
+/* Barre de chat fixe */
+.stChatInput {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
+}
+
+/* Messages utilisateur */
+.stChatMessage.st-emotion-cache-4oy321 {
+    background-color: #f0f7ff;
+    border-radius: 15px 15px 0 15px;
+    margin: 5px 0;
+}
+
+/* Messages bot */
+.stChatMessage.st-emotion-cache-qd5xio {
+    background-color: #f5f5f5;
+    border-radius: 15px 15px 15px 0;
+    margin: 5px 0;
+}
+
+/* Boutons questions rapides */
+.stButton button {
+    text-align: left !important;
+    white-space: normal !important;
+    height: auto !important;
+    padding: 8px 12px !important;
+    margin: 4px 0 !important;
+}
+
+/* Boutons langue */
+.st-emotion-cache-7ym5gk {
+    border: 2px solid #4CAF50 !important;
+}
